@@ -1,0 +1,10 @@
+{
+  "description": "Connects and manages GitHub repositories for project tracking, enabling teams to monitor development progress and collaborate efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
